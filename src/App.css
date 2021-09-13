@@ -1,0 +1,10 @@
+.menu-canvas {
+  height: 50px;
+  background-color: #111111;
+  position: fixed;
+  bottom: 0;
+  z-index: 999;
+  color: #999;
+  font-size: 14px;
+
+}
